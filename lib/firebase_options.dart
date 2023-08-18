@@ -44,39 +44,39 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBcilCTk7NUlVI5oaLsGcIxxCGp7Ly6Tbs',
-    appId: '1:1083450039264:web:52652078dbe88615ffe985',
-    messagingSenderId: '1083450039264',
-    projectId: 'opa-messenger-homolog',
-    authDomain: 'opa-messenger-homolog.firebaseapp.com',
-    storageBucket: 'opa-messenger-homolog.appspot.com',
+    apiKey: ' ',
+    appId: ' ',
+    messagingSenderId: ' ',
+    projectId: ' ',
+    authDomain: ' ',
+    storageBucket: ' ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC7mIYBS05or1YiX_-SSvkgGhhHofGElxQ',
-    appId: '1:1083450039264:android:7e2f3b6468f56653ffe985',
-    messagingSenderId: '1083450039264',
-    projectId: 'opa-messenger-homolog',
-    storageBucket: 'opa-messenger-homolog.appspot.com',
+    apiKey: ' ',
+    appId: ' ',
+    messagingSenderId: ' ',
+    projectId: ' ',
+    storageBucket: ' ',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDrhfDBPaNDn8NtnQXBYLwU3GwHsdKFA08',
-    appId: '1:1083450039264:ios:11c7cf2e57e6995dffe985',
-    messagingSenderId: '1083450039264',
-    projectId: 'opa-messenger-homolog',
-    storageBucket: 'opa-messenger-homolog.appspot.com',
-    iosClientId: '1083450039264-o271lcut2k3ue7dst19l2bj9griv73v5.apps.googleusercontent.com',
+    apiKey: ' ',
+    appId: ' ',
+    messagingSenderId: ' ',
+    projectId: ' ',
+    storageBucket: ' ',
+    iosClientId: ' ',
     iosBundleId: 'com.opa.opaMessenger',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDrhfDBPaNDn8NtnQXBYLwU3GwHsdKFA08',
-    appId: '1:1083450039264:ios:c2fb988839d896bdffe985',
-    messagingSenderId: '1083450039264',
-    projectId: 'opa-messenger-homolog',
-    storageBucket: 'opa-messenger-homolog.appspot.com',
-    iosClientId: '1083450039264-c9p5u2ik1in2pchgpis5f4iobcjkei7a.apps.googleusercontent.com',
+    apiKey: ' ',
+    appId: ' ',
+    messagingSenderId: ' ',
+    projectId: ' ',
+    storageBucket: ' ',
+    iosClientId: ' ',
     iosBundleId: 'com.opa.opaMessenger.RunnerTests',
   );
 }
