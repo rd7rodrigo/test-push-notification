@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Opa Messenger</string>
+    <string name="title_activity_main">Opa Messenger</string>
+    <string name="package_name">com.opa.opa_messenger</string>
+    <string name="custom_url_scheme">com.opa.opa_messenger</string>
+    <string name="default_notification_channel_id">com.opa.opa_messenger.urgent</string>
+</resources>
